@@ -1,2 +1,2 @@
-# prosus.energy
-www.prosus.energy
+# Prosus Energy
+http://energy.prosuscorp.com
